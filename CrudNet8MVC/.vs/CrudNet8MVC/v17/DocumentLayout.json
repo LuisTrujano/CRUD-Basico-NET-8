@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\scrap\\Videos\\Curso_Net8_MVC\\ProyectoCrudNet8MVC\\CrudNet8MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D30FA83-87BF-45EB-9DCF-BF633702A581}|CrudNet8MVC\\CrudNet8MVC.csproj|c:\\users\\scrap\\videos\\curso_net8_mvc\\proyectocrudnet8mvc\\crudnet8mvc\\crudnet8mvc\\views\\inicio\\borrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D30FA83-87BF-45EB-9DCF-BF633702A581}|CrudNet8MVC\\CrudNet8MVC.csproj|solutionrelative:crudnet8mvc\\views\\inicio\\borrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D30FA83-87BF-45EB-9DCF-BF633702A581}|CrudNet8MVC\\CrudNet8MVC.csproj|c:\\users\\scrap\\videos\\curso_net8_mvc\\proyectocrudnet8mvc\\crudnet8mvc\\crudnet8mvc\\controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D30FA83-87BF-45EB-9DCF-BF633702A581}|CrudNet8MVC\\CrudNet8MVC.csproj|solutionrelative:crudnet8mvc\\controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D30FA83-87BF-45EB-9DCF-BF633702A581}|CrudNet8MVC\\CrudNet8MVC.csproj|c:\\users\\scrap\\videos\\curso_net8_mvc\\proyectocrudnet8mvc\\crudnet8mvc\\crudnet8mvc\\views\\inicio\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D30FA83-87BF-45EB-9DCF-BF633702A581}|CrudNet8MVC\\CrudNet8MVC.csproj|solutionrelative:crudnet8mvc\\views\\inicio\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D30FA83-87BF-45EB-9DCF-BF633702A581}|CrudNet8MVC\\CrudNet8MVC.csproj|c:\\users\\scrap\\videos\\curso_net8_mvc\\proyectocrudnet8mvc\\crudnet8mvc\\crudnet8mvc\\views\\inicio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D30FA83-87BF-45EB-9DCF-BF633702A581}|CrudNet8MVC\\CrudNet8MVC.csproj|solutionrelative:crudnet8mvc\\views\\inicio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D30FA83-87BF-45EB-9DCF-BF633702A581}|CrudNet8MVC\\CrudNet8MVC.csproj|c:\\users\\scrap\\videos\\curso_net8_mvc\\proyectocrudnet8mvc\\crudnet8mvc\\crudnet8mvc\\views\\inicio\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D30FA83-87BF-45EB-9DCF-BF633702A581}|CrudNet8MVC\\CrudNet8MVC.csproj|solutionrelative:crudnet8mvc\\views\\inicio\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D30FA83-87BF-45EB-9DCF-BF633702A581}|CrudNet8MVC\\CrudNet8MVC.csproj|c:\\users\\scrap\\videos\\curso_net8_mvc\\proyectocrudnet8mvc\\crudnet8mvc\\crudnet8mvc\\models\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D30FA83-87BF-45EB-9DCF-BF633702A581}|CrudNet8MVC\\CrudNet8MVC.csproj|solutionrelative:crudnet8mvc\\models\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "C:\\Users\\scrap\\Videos\\Curso_Net8_MVC\\ProyectoCrudNet8MVC\\CrudNet8MVC\\CrudNet8MVC\\Views\\Inicio\\Crear.cshtml",
+              "RelativeDocumentMoniker": "CrudNet8MVC\\Views\\Inicio\\Crear.cshtml",
+              "ToolTip": "C:\\Users\\scrap\\Videos\\Curso_Net8_MVC\\ProyectoCrudNet8MVC\\CrudNet8MVC\\CrudNet8MVC\\Views\\Inicio\\Crear.cshtml",
+              "RelativeToolTip": "CrudNet8MVC\\Views\\Inicio\\Crear.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwC8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-03T03:19:36.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\scrap\\Videos\\Curso_Net8_MVC\\ProyectoCrudNet8MVC\\CrudNet8MVC\\CrudNet8MVC\\Views\\Inicio\\Index.cshtml",
+              "RelativeDocumentMoniker": "CrudNet8MVC\\Views\\Inicio\\Index.cshtml",
+              "ToolTip": "C:\\Users\\scrap\\Videos\\Curso_Net8_MVC\\ProyectoCrudNet8MVC\\CrudNet8MVC\\CrudNet8MVC\\Views\\Inicio\\Index.cshtml",
+              "RelativeToolTip": "CrudNet8MVC\\Views\\Inicio\\Index.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAC4AAAClAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-03T02:21:02.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InicioController.cs",
+              "DocumentMoniker": "C:\\Users\\scrap\\Videos\\Curso_Net8_MVC\\ProyectoCrudNet8MVC\\CrudNet8MVC\\CrudNet8MVC\\Controllers\\InicioController.cs",
+              "RelativeDocumentMoniker": "CrudNet8MVC\\Controllers\\InicioController.cs",
+              "ToolTip": "C:\\Users\\scrap\\Videos\\Curso_Net8_MVC\\ProyectoCrudNet8MVC\\CrudNet8MVC\\CrudNet8MVC\\Controllers\\InicioController.cs",
+              "RelativeToolTip": "CrudNet8MVC\\Controllers\\InicioController.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAAwHwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T00:38:45.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Borrar.cshtml",
+              "DocumentMoniker": "C:\\Users\\scrap\\Videos\\Curso_Net8_MVC\\ProyectoCrudNet8MVC\\CrudNet8MVC\\CrudNet8MVC\\Views\\Inicio\\Borrar.cshtml",
+              "RelativeDocumentMoniker": "CrudNet8MVC\\Views\\Inicio\\Borrar.cshtml",
+              "ToolTip": "C:\\Users\\scrap\\Videos\\Curso_Net8_MVC\\ProyectoCrudNet8MVC\\CrudNet8MVC\\CrudNet8MVC\\Views\\Inicio\\Borrar.cshtml",
+              "RelativeToolTip": "CrudNet8MVC\\Views\\Inicio\\Borrar.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-04T03:16:45.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\scrap\\Videos\\Curso_Net8_MVC\\ProyectoCrudNet8MVC\\CrudNet8MVC\\CrudNet8MVC\\Views\\Inicio\\Editar.cshtml",
+              "RelativeDocumentMoniker": "CrudNet8MVC\\Views\\Inicio\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\scrap\\Videos\\Curso_Net8_MVC\\ProyectoCrudNet8MVC\\CrudNet8MVC\\CrudNet8MVC\\Views\\Inicio\\Editar.cshtml",
+              "RelativeToolTip": "CrudNet8MVC\\Views\\Inicio\\Editar.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAwDEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-04T02:48:01.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Contacto.cs",
+              "DocumentMoniker": "C:\\Users\\scrap\\Videos\\Curso_Net8_MVC\\ProyectoCrudNet8MVC\\CrudNet8MVC\\CrudNet8MVC\\Models\\Contacto.cs",
+              "RelativeDocumentMoniker": "CrudNet8MVC\\Models\\Contacto.cs",
+              "ToolTip": "C:\\Users\\scrap\\Videos\\Curso_Net8_MVC\\ProyectoCrudNet8MVC\\CrudNet8MVC\\CrudNet8MVC\\Models\\Contacto.cs",
+              "RelativeToolTip": "CrudNet8MVC\\Models\\Contacto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T18:31:17.617Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
